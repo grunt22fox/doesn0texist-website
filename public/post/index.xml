@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts on doesn0texist</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Blog Posts on doesn0texist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High School Chromebook Shenanigans</title>
+      <link>http://localhost:1313/post/hs-shenanigans/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/hs-shenanigans/</guid>
+      <description>High school sucked, and I&amp;rsquo;m gonna talk about a time where I was able to use a Chromebook to slack off in ways that most students could only dream of.&#xA;Like I said above, high school sucked ass in many, many, many, many, many ways. This was an alarming amount of ass suckage - I was bored out of my mind most days attempting to stay awake while I was in a place for a third of a full day sitting in on things that I had little to no interest in learning.</description>
+    </item>
+    <item>
+      <title>Welcome to my Blog!</title>
+      <link>http://localhost:1313/post/welcome/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/welcome/</guid>
+      <description>For years, I&amp;rsquo;ve wanted to make my own blog and website but was never able to get the motivation to sit down and do it. Now, it&amp;rsquo;s a reality.&#xA;I just want to thank you for dropping by my blog and taking the time to at least skim by my posts - I appreciate the fact that someone else would read this stuff more than you can imagine. I am going to make posts about technology, video games, life, and anything else I can come by, and I hope you&amp;rsquo;re around to enjoy the ride.</description>
+    </item>
+  </channel>
+</rss>

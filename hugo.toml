@@ -1,0 +1,112 @@
+# Main site information
+
+baseURL = '//doesn0texist.tech/'
+languageCode = 'en'
+DefaultContentLanguage = 'en'    
+title = 'doesn0texist'
+theme = 'risotto'
+author = 'grunt22fox'
+paginate = 3
+enableInlineShortcodes = true
+
+[params]
+noindex = false
+
+# Defines the theme of the website
+
+[params.theme]
+palette = 'windows-95'
+
+# Sidebar info
+
+[params.about]
+title = 'doesn0texist'
+description = 'My personal website covering tech, gaming, and more.'
+logo = 'images/favicon.png'
+
+# Links that are displayed below the sidebar info
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-steam'
+title = 'Steam'
+url = 'https://steamcommunity.com/id/grunt22fox/'
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-github'
+title = 'GitHub'
+url = 'https://github.com/grunt22fox'
+
+[[params.socialLinks]]
+icon = 'fa-solid fa-envelope'
+title = 'E-mail'
+url = 'mailto:grunt22fox@doesn0texist.tech'
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-discord'
+title = 'Discord'
+url = 'https://discord.com/users/314142411247058946'
+
+# Main menubar entries
+
+[menu]
+
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'posts'
+    url = '/posts/'
+    weight = 1
+
+  [[menu.main]]
+    identifier = 'favorites'
+    name = 'Favorites'
+    url = '/favorites/'
+    weight = 2
+
+  [[menu.main]]
+    identifier = 'projects'
+    name = 'Projects'
+    url = '/projects/'
+    weight = 3
+
+  [[menu.main]]
+    identifier = 'extras'
+    name = 'Extras'
+    url = '/extras/'
+    weight = 4
+
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+series = 'series'
+
+# Hugo privacy settings
+
+[privacy]
+
+  [privacy.disqus]
+    disable = false
+
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+
+  [privacy.instagram]
+    disable = true
+    simple = false
+
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+
+  [privacy.vimeo]
+    disable = true
+    enableDNT = false
+    simple = false
+
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
