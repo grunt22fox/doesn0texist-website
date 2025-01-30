@@ -1,7 +1,7 @@
 {{ with .Site.Params.about }}
 <div class="aside__about">
     {{ with .logo }}<img class="about__logo" src="{{ . | absURL }}" alt="Logo">{{ end }}
-<h1 class="about__title">{{ .title }}</h1>
+<h1 class="about__title"> {{ .title }}</h1>
 {{ with .description }}<p class="about__description">{{ . | markdownify }}</p>{{ end }}
 </div>
 {{ end }}

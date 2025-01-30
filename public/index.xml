@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>doesn0texist</title>
-    <link>//localhost:39073/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on doesn0texist</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:39073/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extras</title>
-      <link>//localhost:39073/extras/</link>
+      <link>//localhost:1313/extras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:39073/extras/</guid>
+      <guid>//localhost:1313/extras/</guid>
       <description>Want some extras?&#xA;Website buttons 88x31&#xA;150x20</description>
     </item>
     <item>
       <title>Favorites</title>
-      <link>//localhost:39073/favorites/</link>
+      <link>//localhost:1313/favorites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:39073/favorites/</guid>
+      <guid>//localhost:1313/favorites/</guid>
       <description>Want to discover some new YouTube channels, music, shows, or more? Here are my favorites listed in a neat page.&#xA;YouTube - Technology Druaga1 Modern Vintage Gamer Micheal MJD clabretro Jiga Tech Bringus Studios Gamers Nexus Tech Tangents dannoct1 MattKC LGR DankPods James Channel THEPHINTAGECOLLECTOR The Serial Port&#xA;YouTube - Gaming ESA Speedrunning RPG Limit Break Games Done Quick Pikasprey Yellow Pikasprey Blue Nintendo Movies Dansg08 MachoNachoProductions Cinemassacre Vinesauce: Vinny Streams Vinesauce: Joel Streams TheRunawayGuys ryaltheamazing</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>//localhost:39073/projects/</link>
+      <link>//localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:39073/projects/</guid>
+      <guid>//localhost:1313/projects/</guid>
       <description>This is a list of my current projects that I&amp;rsquo;m involved in one way or another.&#xA;Proxmox VE Server This very website runs on a Proxmox VE server maintained in my home. If you&amp;rsquo;re curious, the specifications are below:&#xA;Dell Poweredge R430 2 x Intel Xeon E5-2640 V4 192GB DDR4-2133 240GB RAID1 1.2TB RAID1 12TB SINGLE DRIVE 8 x 1G NIC This is the server that I use for homelabbing purposes, doing everything from running my network with OPNsense to miscellaneous Docker and LXC containers.</description>
     </item>
   </channel>
