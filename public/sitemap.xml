@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//doesn0texist.tech/</loc>
+    <loc>//localhost:1313/doesn0texist-website/</loc>
   </url><url>
-    <loc>//doesn0texist.tech/categories/</loc>
+    <loc>//localhost:1313/doesn0texist-website/categories/</loc>
   </url><url>
-    <loc>//doesn0texist.tech/extras/</loc>
+    <loc>//localhost:1313/doesn0texist-website/extras/</loc>
   </url><url>
-    <loc>//doesn0texist.tech/favorites/</loc>
+    <loc>//localhost:1313/doesn0texist-website/favorites/</loc>
   </url><url>
-    <loc>//doesn0texist.tech/tags/index/</loc>
+    <loc>//localhost:1313/doesn0texist-website/tags/index/</loc>
   </url><url>
-    <loc>//doesn0texist.tech/posts/</loc>
+    <loc>//localhost:1313/doesn0texist-website/posts/</loc>
   </url><url>
-    <loc>//doesn0texist.tech/projects/</loc>
+    <loc>//localhost:1313/doesn0texist-website/projects/</loc>
   </url><url>
-    <loc>//doesn0texist.tech/series/</loc>
+    <loc>//localhost:1313/doesn0texist-website/series/</loc>
   </url><url>
-    <loc>//doesn0texist.tech/tags/</loc>
+    <loc>//localhost:1313/doesn0texist-website/tags/</loc>
   </url>
 </urlset>

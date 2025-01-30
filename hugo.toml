@@ -1,6 +1,6 @@
 # Main site information
 
-baseURL = '//doesn0texist.tech/'
+baseURL = '//grunt22fox.github.io/doesn0texist-website/'
 languageCode = 'en'
 DefaultContentLanguage = 'en'    
 title = 'doesn0texist'
